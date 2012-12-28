@@ -1,8 +1,6 @@
 Unity 3D Anti Piracy
 ====================
 
-Welcome
-====================
 Thanks for your interest in Unity Anti-Piracy script. This project is now
 hosted at https://bitbucket.org/JustinLloyd/unity-anti-piracy
 
