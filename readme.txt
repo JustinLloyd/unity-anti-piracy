@@ -1,12 +1,11 @@
-Unity 3D Anti Piracy
-====================
+* Welcome
+Thanks for downloading Unity Anti-Piracy script.
 
-Thanks for your interest in Unity Anti-Piracy script. This project is now
-hosted at https://bitbucket.org/JustinLloyd/unity-anti-piracy
+Visit https://bitbucket.org/JustinLloyd/unity-anti-piracy/overview for more
+information and to download the latest version.
 
 
-License
-====================
+* License
  Copyright (C) 2010 Justin Lloyd
  
  This library is free software; you can redistribute it and/or
@@ -25,24 +24,20 @@ License
  Software originally created by Justin Lloyd @ http://otakunozoku.com/
 
 
-About
-====================
+* About
 A C# script for Unity 3D that prevents your Web Player project from running on
 websites that are not authorised.
 
 An older version of the script, with a brief write-up, is available at
 http://www.otakunozoku.com/unity3d-piracy-prevention/
 
-Pre-requisites
-====================
+* Pre-requisites
 1. Unity 3D v3+
 
-Using the script
-====================
+* Using the script
 1. Attach the Anti-Piracy script to a scene permanent game object, such as your
    camera
 2. Add some URLs in the inspector for which websites you want to allow
 
-Support
-====================
+* Support
 Absolutely none provided.  
